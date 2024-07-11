@@ -1,4 +1,4 @@
-![图片](https://github.com/MiMiDDeng/PathPlanning_PathTracker/assets/156818636/6a3cd796-a0c9-4d10-9934-c5001b10f0c2)#参考：https://github.com/zhaohaojie1998/Path-Planning
+#参考：https://github.com/zhaohaojie1998/Path-Planning
 
 #PathPlanning_PathTracker
 
