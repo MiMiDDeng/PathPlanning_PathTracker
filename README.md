@@ -3,7 +3,7 @@
 #PathPlanning_PathTracker
 
 #本项目实现了
-（1）图片二值化，将输入的图片转化为具有障碍物的地图；
+（1）图片的二值化，将输入的图片转化为具有障碍物的地图；
 （2）PathPlanning：包括了DFS、BFS、Dijkstra、A_star算法；
 （3）基于上述PathPlanning得到的路径的PathTracker：包括PID、Pure_pursuit算法；
 
